@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    background: #081221;
+    font-family: Arial,;
+}
+
+.main{
+    width 90%;
+    min-height: 2800px;
+    height: auto;
+    background: #ffffff;
+    margin:40px auto;
+    border-radius: 20px;
+}
+
+.menu{
+    width:100%;
+    text-align: right;
+    padding:20px 30px 0 0;
+    box-sizing: border-box;
+    color:black;
+}
+
+.menu a{
+    text-decoration: none;
+    color:light rgb(98, 90, 255);
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 20px
+    font-weight: bold;
+    padding: 10px 18px;
+    border-radius: 25px;
+}
+
+.menu a:hover{
+    color:blue;
+}
+
+.content{
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    color: black;
+}
+
+img{
+    border-radius: 50%;
+    border: 5px solid #000dff;
+}
+
+h1{
+    font-size: 45px;
+}
+
+p{
+    width: 70%;
+    font-size: 18px;
+    line-height: 30 px;
+}
+
+.btn{
+    background: blue;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background:rgb(110, 110, 254);
+}
+
+.about{
+    width: 90%;
+    margin: 40px auto;
+    padding: 30px;
+    background: #ffffff;
+    border-radius: 20px;
+}
+
+.about p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.contact{
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.contact p{
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.about li{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
